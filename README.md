@@ -8,8 +8,11 @@ Integrantes
 - Pablo Solorza
 - Diego Capo
 - Bastian Ocaranza
+
+
 Docente
 - Ignacio Pérez
+
 
 Asignatura
 IGR - 00140 - Internet De Las Cosas
