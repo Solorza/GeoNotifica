@@ -22,18 +22,22 @@ IGR - 00140 - Internet De Las Cosas
 Aqui se detallan los componentes seleccionados para la construcción de GPS
 
 ESP8266
+
 - Cantidad: 1
 - Descripción: Chip integrado con conexión WiFi y compatible con el protocolo TCP/IP.
 
 GPS NEO-6M
+
 -Cantidad: 1
 -Descripción: Módulo GPS para Arduino y microcontroladores, basado en el receptor de la marca Ublox modelo NEO 6M.
 
 Cables Dupont
+
 -Cantidad: 4
 -Descripción: Cable eléctrico.
 
 Estaño
+
 -Cantidad: 1 metro
 -Descripción: Soldadura de 60% Estaño y 40% Plomo, Filamento de 1 milímetro.
 
