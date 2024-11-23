@@ -36,4 +36,5 @@ Estaño
 
 # Estructura física
 
-https://github.com/Solorza/GeoNotifica/blob/main/image/Esp8266_GeoNeoM6.jpeg
+## Imagen del ESP8266 y GPS NEO-6M
+![ESP8266 con GPS NEO-6M](https://github.com/Solorza/GeoNotifica/blob/main/image/Esp8266_GeoNeoM6.jpeg)
