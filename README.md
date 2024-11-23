@@ -28,18 +28,18 @@ ESP8266
 
 GPS NEO-6M
 
--Cantidad: 1
--Descripción: Módulo GPS para Arduino y microcontroladores, basado en el receptor de la marca Ublox modelo NEO 6M.
+- Cantidad: 1
+- Descripción: Módulo GPS para Arduino y microcontroladores, basado en el receptor de la marca Ublox modelo NEO 6M.
 
 Cables Dupont
 
--Cantidad: 4
--Descripción: Cable eléctrico.
+- Cantidad: 4
+- Descripción: Cable eléctrico.
 
 Estaño
 
--Cantidad: 1 metro
--Descripción: Soldadura de 60% Estaño y 40% Plomo, Filamento de 1 milímetro.
+- Cantidad: 1 metro
+- Descripción: Soldadura de 60% Estaño y 40% Plomo, Filamento de 1 milímetro.
 
 # Estructura física
 
