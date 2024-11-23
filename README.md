@@ -36,4 +36,4 @@ Estaño
 
 # Estructura física
 
-
+https://github.com/Solorza/GeoNotifica/blob/main/image/Esp8266_GeoNeoM6.jpeg
