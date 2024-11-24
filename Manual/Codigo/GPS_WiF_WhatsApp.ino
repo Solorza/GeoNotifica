@@ -14,12 +14,12 @@ TinyGPSPlus gps;
 SoftwareSerial ss(tx_d5, rx_d6); // Comunicación serial con el GPS
 
 // Configuración de WiFi
-const char* ssid = "PS.Red";           // Nombre de tu red WiFi
-const char* password = "123456789.P";  // Contraseña de tu red WiFi
+const char* ssid = "xxxxx";           // Nombre de tu red WiFi
+const char* password = "xxxxxx";  // Contraseña de tu red WiFi
 
 //Configuración CallMeBot
-String phoneNumber = "+56956005098";   // Número de teléfono con prefijo internacional
-String apiKey = "7406250";             // API Key de CallMeBot
+String phoneNumber = "xxxxxx";   // Número de teléfono con prefijo internacional
+String apiKey = "xxxxxx";             // API Key de CallMeBot
 
 void sendMessage(String message) {
   // Data to send with HTTP POST
