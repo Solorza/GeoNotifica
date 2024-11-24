@@ -1,8 +1,9 @@
-# Proyecto: GeoNotifica 0.1
+# Proyecto: GeoNotifica 1.2
 
 El proyecto GeoNotifica es un desarrollo de "IOT" del área de informática del Instituto profesional Santo Tomás sede San Joaquín.
 
-Justificación: Queríamos probar la factibilidad de replicar un sistema simple de GPS, con módulos comunes y relativamente baratas. El objetivo del proyecto era poder obtener la geolocalización, y poder enviar esta a un numero whatsapp. Teorizamos que esto podría tener usos para la seguridad personal, independiente del teléfono de la persona, si el prototipo fuere lo sufimientemente barato y viable.
+#Justificación: 
+Queremos probar la factibilidad de replicar un sistema simple de GPS, con módulos comunes y relativamente baratas. El objetivo del proyecto era poder obtener la geolocalización, y poder enviar esta a un numero whatsapp. Teorizamos que esto podría tener usos para la seguridad personal, independiente del teléfono de la persona, si el prototipo fuere lo sufimientemente barato y viable.
 
 El proyecto permite el monitoreo de un vehiculo mediante un GPS NEO-6M y un ESP8266. Cuando el vehiculo se mueva, se enviara una notificacion a traves de WhatsApp.
 
